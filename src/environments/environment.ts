@@ -5,13 +5,20 @@
 export const environment = {
   production: false,
   firebase:  {
-    apiKey: 'AIzaSyAKlEX5a8PQaadYNSrohqfl33O37Kjkv1Y',
-    authDomain: 'angular-voxer.firebaseapp.com',
-    databaseURL: 'https://angular-voxer.firebaseio.com',
-    projectId: 'angular-voxer',
-    storageBucket: 'angular-voxer.appspot.com',
-    messagingSenderId: '122050526979',
-    appId: '1:122050526979:web:529304dce5ffca7a'
+    // apiKey: 'AIzaSyAKlEX5a8PQaadYNSrohqfl33O37Kjkv1Y',
+    // authDomain: 'angular-voxer.firebaseapp.com',
+    // databaseURL: 'https://angular-voxer.firebaseio.com',
+    // projectId: 'angular-voxer',
+    // storageBucket: 'angular-voxer.appspot.com',
+    // messagingSenderId: '122050526979',
+    // appId: '1:122050526979:web:529304dce5ffca7a'
+    apiKey: "AIzaSyBMqezxYGzVX-dZJWTWcL270Q41tYnXeWg",
+    authDomain: "myfireshipdemo.firebaseapp.com",
+    databaseURL: "https://myfireshipdemo-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "myfireshipdemo",
+    storageBucket: "myfireshipdemo.appspot.com",
+    messagingSenderId: "971976350346",
+    appId: "1:971976350346:web:7918475e3020c9a4c82b73"
   }
 };
 
